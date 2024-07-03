@@ -1,0 +1,385 @@
+CustomerID,TotalSpent,PurchaseFrequency,LastPurchaseDate,Recency,Cluster
+ mutual fund,8000.0,8,2015-11-10,3158,3
+1 Jar,25.0,1,2016-06-01,2954,2
+1 Year Plan (40mbps + UL+ 3 Months Free),5640.0,1,2017-10-09,2459,0
+1 chicken shawarma,60.0,1,2017-04-03,2648,2
+1 dozen,72.0,1,2016-09-07,2856,2
+1 kg apple,270.0,2,2017-11-08,2429,0
+1 kg apple + bananas,160.0,1,2017-01-10,2731,2
+1 kg apple + grapes 0.5 kg,190.0,1,2017-03-07,2675,2
+1 lit ,764.0,11,2018-03-10,2307,3
+1 month subscription,945.0,5,2018-09-19,2114,0
+1 packet,89.0,2,2018-05-11,2245,0
+1 veg noodles + 1 chicken soup + 1 egg fried rice,386.0,1,2017-01-02,2739,2
+1.5 lit milk + 3 cold drink + 1 khari + 1 bread,200.0,1,2017-03-11,2671,2
+11 clothes ironing,77.0,1,2018-09-05,2128,0
+12 eggs,168.0,2,2018-06-11,2214,0
+1kg atta,40.0,1,2017-01-01,2740,2
+1lit buffalo milk,70.0,1,2016-09-09,2854,2
+2 Batman tickets,440.0,1,2017-03-12,2670,2
+2 CD to Place 1: shivshahi,470.0,1,2017-08-11,2518,0
+2 Cadbury dairy milk,20.0,1,2017-06-05,2585,2
+2 Current Residence to Place 0,180.0,6,2017-09-11,2487,0
+2 Faluda,80.0,1,2018-05-10,2246,0
+2 Fried rice,321.0,1,2017-05-01,2620,2
+2 Kg Onion 30/kg + 1 kg Potato 30/kg + Parle Biscuit Rs 10,100.0,1,2017-07-05,2555,0
+2 Kushinagar express (LTT to Place 2),501.0,1,2017-06-10,2580,2
+2 PVR ,461.0,1,2018-07-01,2194,0
+2 PVR Place 6,312.0,1,2018-02-06,2339,0
+2 Place 0 to Current Residence,180.0,6,2018-02-11,2334,0
+2 Place 0 to Place 3 returns,80.0,1,2017-07-09,2551,0
+2 Place 0 to Place 4 return,40.0,1,2017-03-12,2670,2
+2 Place 0 to WS returns,20.0,1,2017-03-11,2671,2
+2 Place 0 to WS single,10.0,1,2017-05-01,2620,2
+2 Place 1 to  mall,26.0,1,2018-07-02,2193,0
+2 Place 1 to Place 2 - Novelty tour and travels,4038.0,2,2017-09-11,2487,0
+2 Place 1 to VN,330.0,1,2017-08-11,2518,0
+2 Place 2 to Place 1,1599.98,1,2017-03-10,2672,2
+2 Place 2 to Place 1 - Shree Sharma Travels,5266.0,3,2018-07-01,2194,0
+2 Place 3 to Place 2 : Sevagram express 3AC,1293.0,1,2018-03-12,2305,0
+2 Place 3m to Mumbai vidyapeeth,12.0,1,2017-07-09,2551,0
+2 Place 6 Stand to MS,20.0,1,2018-07-02,2193,0
+2 Schwan chutteny + 2 cheese cube + amul butter,100.0,1,2017-03-09,2673,2
+2 Thyroid (1000) + cholesterol (220) + uric acid (220),1440.0,1,2018-07-04,2191,0
+2 Vadapav,30.0,1,2018-03-07,2310,0
+2 Veg puff,40.0,1,2017-06-06,2584,2
+2 bread packets,57.0,1,2018-07-11,2184,0
+2 cups,40.0,2,2018-01-06,2370,0
+2 cutting chai,20.0,1,2018-01-07,2369,0
+2 envelope,24.0,1,2017-05-10,2611,2
+2 kachori,48.0,2,2018-09-05,2128,0
+2 milkybar,20.0,1,2016-12-03,2769,2
+2 orange juices,100.0,1,2017-03-09,2673,2
+2 packets,90.0,2,2018-01-10,2366,0
+2 pavwada,20.0,1,2017-11-02,2435,0
+2 plate medu vada + 2 pcs dal vada,45.0,1,2017-03-06,2676,2
+2 sugarcane juice,40.0,1,2017-03-12,2670,2
+2 tickets - Cinepolis 4DX 3D,760.0,1,2017-06-08,2582,2
+2 uttapam,350.0,2,2017-01-03,2738,2
+3 Sinarest,18.0,1,2017-06-05,2585,2
+3 chips packets,15.0,1,2016-12-04,2768,2
+3 chips packets + bread,45.0,1,2017-01-11,2730,2
+3 cutting chai,30.0,1,2018-07-08,2187,0
+3 months subscription Mobile,149.0,1,2017-10-01,2467,0
+3 packets,30.0,1,2018-02-12,2333,0
+3 plate kachori,72.0,1,2017-03-10,2672,2
+3.4 Lit Petrol,360.0,1,2018-07-09,2186,0
+4 Shegaon kachori,48.0,1,2017-01-06,2735,2
+4 chapati,60.0,3,2017-05-12,2609,2
+4 cups (2 Vanilla 2 tutifruity),40.0,1,2017-09-04,2494,0
+4 eggs,26.0,1,2017-07-08,2552,0
+4 kachori,48.0,1,2018-05-12,2244,0
+4 paracetamol tablets,10.0,1,2017-08-01,2528,0
+40 Place 0 to Place 3 return+ 20 single,60.0,1,2017-05-03,2618,2
+5 Meftal spas,22.0,1,2018-03-06,2311,0
+5 chapati,50.0,2,2017-08-06,2523,0
+5 litres can Distilled water,100.0,1,2018-01-06,2370,0
+5 pouch of shreejal,60.0,1,2017-02-04,2706,2
+6 eggs,379.0,10,2018-07-12,2183,3
+6 pcs,35.0,1,2017-06-08,2582,2
+7 mava kulfie,140.0,1,2017-07-02,2558,0
+8 bananas,50.0,2,2018-02-01,2344,0
+8 kachori,96.0,1,2018-08-11,2153,0
+8 pcs meduvada + 4 pcs dal vada + sambar + chatni,125.0,1,2017-04-12,2639,2
+Aadhar Address Change,50.0,1,2018-01-04,2372,0
+Aadhar PUC card delivery,50.0,1,2018-03-06,2311,0
+Acne Star cream,100.0,1,2017-11-09,2428,0
+All out refill,77.0,1,2018-03-10,2307,0
+Aloo mutter sabji,30.0,1,2017-05-07,2614,2
+Amazon pay cashback 1017 + Rs.482,482.0,1,2018-01-01,2375,0
+Amul butter,105.0,2,2018-09-06,2127,0
+At restaurant,3527.0,5,2018-07-07,2188,0
+B45 to brc,10.0,1,2015-03-06,3407,2
+Bandra to Bandra terminus,20.0,1,2015-03-10,3403,2
+Bhaji + vadapav,40.0,1,2018-05-03,2253,0
+Bhendi bhaji,40.0,1,2017-11-09,2428,0
+Bhendi masala 30 + 3 chapati,45.0,1,2017-05-05,2616,2
+Black Ball pen,10.0,1,2017-07-11,2549,0
+Body hair removal cream,318.0,1,2017-05-11,2610,2
+Bombay vada pav,10.0,1,2016-11-12,2790,2
+Boroline + band aid,50.0,1,2017-10-04,2464,0
+Bows,398.0,1,2018-08-05,2159,0
+Bread,104.0,4,2018-09-05,2128,0
+Cadbury 2 + chips 2,90.0,1,2015-12-05,3133,2
+Catering Service,1087.0,12,2018-05-12,2244,3
+Catering Service ( 5 methi paranthe),125.0,1,2017-12-01,2406,0
+Catering Service (1 bhaji 30 + 3 chapti 15),45.0,1,2017-07-05,2555,0
+Chana masala 30 + 3 chapati,45.0,1,2017-05-09,2612,2
+Change,100.0,1,2017-08-05,2524,0
+Channi + viper+ ghasni,50.0,1,2017-01-01,2740,2
+Chicken Biryani 120+ dal rice 60,180.0,1,2017-06-05,2585,2
+Chicken manchow soup,98.0,1,2017-05-07,2614,2
+Chinese Bhel,30.0,1,2018-09-05,2128,0
+Cinarest,27.0,1,2017-08-05,2524,0
+Cockroach injection,270.0,1,2018-01-04,2372,0
+Colgate max fresh medium,55.0,1,2016-12-03,2769,2
+Colgate max fresh small,20.0,1,2017-11-09,2428,0
+Cornetto butterscotch,40.0,1,2017-05-09,2612,2
+Courier,100.0,1,2017-05-10,2611,2
+Covaxin booster dose,386.0,1,2017-06-10,2580,2
+Current Residence - Tata Play recharge,454.0,3,2018-07-03,2192,0
+Current Residence to Place 0,175.0,7,2018-08-05,2159,0
+Current Residence to Place 1 bus stop highway,160.0,3,2018-07-02,2193,0
+Current Residence to hotel on highway,50.0,1,2017-01-07,2734,2
+Dahi (42) + Vanilla essance (34),76.0,1,2017-08-10,2519,0
+Dahi 2 packets,20.0,1,2018-04-02,2284,0
+Dalich peeth pav kg,25.0,1,2017-07-04,2556,0
+Data booster pack,1334.0,2,2018-09-12,2121,0
+Dettol liquid handwash refill,218.0,1,2017-08-09,2520,0
+Doctor Fees,600.0,3,2018-07-04,2191,0
+Domino's Pizza,1078.0,3,2018-05-12,2244,0
+Double chicken shwarma,100.0,1,2017-12-12,2395,0
+Double omlet pav + tea,45.0,1,2017-05-07,2614,2
+Dudhi 30 + 3 chapati,45.0,1,2017-05-10,2611,2
+Egg fry + chicken lollypop,191.0,1,2017-05-08,2613,2
+Fab India,3198.0,1,2017-10-08,2460,0
+Face towels + shampoo,626.0,1,2018-07-02,2193,0
+Family Mobile Service Provider recharge,5598.0,2,2017-08-04,2525,0
+Family Thyroid Test,500.0,1,2018-01-12,2364,0
+Family's dresses,989.0,1,2017-08-05,2524,0
+Flatbread 12 pcs,74.0,2,2018-03-08,2309,0
+For Family,3410.0,1,2018-08-05,2159,0
+Full egg fried rice 100 + chicken lollypop 4 pcs 130,233.0,1,2017-05-11,2610,2
+Ganpati+ navratri vargani,800.0,1,2017-08-12,2517,0
+Gas stove elica 3 burner,8825.0,1,2017-05-03,2618,0
+Gel pens,20.0,1,2016-03-11,3036,2
+Ginger,10.0,1,2018-04-09,2277,0
+Gupta bhel,25.0,1,2017-12-10,2397,0
+H&M Tshirt for Family,599.0,1,2017-05-01,2620,2
+Half kg potato,10.0,1,2017-04-01,2650,2
+Half kg tomato,15.0,1,2018-02-01,2344,0
+Half lit  milk,491.0,14,2018-09-11,2122,3
+Handwash container2 + window cleaner,1086.0,1,2018-05-07,2249,0
+Harpik 1L,165.0,1,2018-01-08,2368,0
+Himalaya soap(30) + Sofie (59) + kitkat (10),99.0,1,2017-01-09,2732,2
+Holi Tip to cleaner,20.0,1,2018-03-07,2310,0
+Home Food Delivery,1080.0,2,2018-09-11,2122,0
+Home Food Delivery - Chicken lollypop 8 pcs 190 + chicken manchow soup 100,290.0,1,2017-12-03,2404,0
+Home Food Delivery - roti 17*4+ paneer chatpata 190+ veg crispy 150,408.0,1,2017-12-08,2399,0
+Hospital consultation,500.0,1,2018-07-08,2187,0
+ICICI prudential,10000.0,10,2015-12-05,3133,3
+ITone eye drops,43.0,1,2018-05-01,2255,0
+Idli 4 pcs + kachori 4 pcs,93.0,1,2017-09-11,2487,0
+Idli pith 1kg,76.0,2,2018-04-05,2281,0
+Imax 3D,400.0,1,2017-01-03,2738,2
+Kaju katli half kg,500.0,1,2018-05-08,2248,0
+Khari packet,45.0,1,2018-02-05,2340,0
+Kolhapuri chappal,325.0,1,2015-12-02,3136,2
+LB road to Permanent Residence,50.0,1,2016-04-02,3014,2
+Life Insurance,22572.0,2,2016-11-10,2792,1
+Limcee+,70.0,1,2015-05-06,3346,2
+Local pass to Family,100.0,1,2017-09-11,2487,0
+Locality V to Permanent Residence,70.0,1,2015-11-01,3167,2
+Logitech mouse,599.0,1,2018-01-01,2375,0
+M D sure 1kg atta,47.0,1,2017-05-01,2620,2
+M D sure 2kg atta,104.0,1,2018-01-08,2368,0
+M D sure 3kg atta,465.0,3,2018-03-05,2312,0
+M D sure 4kg atta,412.0,2,2018-08-02,2162,0
+Maggie 1 pck,14.0,1,2017-08-02,2527,0
+Mall parking,40.0,2,2018-05-07,2249,0
+Mango 1.5 kg,280.0,1,2018-05-02,2254,0
+Mata + TOI + ET,12.0,1,2018-05-09,2247,0
+Medical tests - Family,6190.0,1,2017-08-05,2524,0
+Mobile Service Provider freedom pack,592.0,2,2017-11-01,2436,0
+Mobile Service Provider recharge wfh,1957.0,7,2017-02-02,2708,3
+Monthly recharge,522.0,2,2017-05-21,2600,2
+Mosquito Racket,300.0,1,2018-03-10,2307,0
+Move jel,125.0,1,2017-08-09,2520,0
+Mutual fund A,7000.0,7,2016-07-05,2920,3
+Mutual fund B,7000.0,7,2016-07-07,2918,3
+Mutual fund C,7000.0,7,2016-07-12,2913,3
+Myntra - tshirt+ denim shorts,399.0,1,2017-08-01,2528,0
+N to M,330.0,1,2017-02-05,2705,2
+Nandadip oil bottle,130.0,1,2018-01-04,2372,0
+No daily limit plan ( 25 GB 30 days),592.0,2,2017-05-07,2614,2
+Non veg overloaded pizza,242.95,1,2017-06-03,2587,2
+Ola cab - Current Residence CHS to eye institute,130.0,1,2018-07-08,2187,0
+Ola cab - eye institute to Current Residence CHS,185.0,1,2018-07-08,2187,0
+PET Psychology,750.0,1,2016-08-07,2887,2
+Paneer masala + hara bhara kabab 6 pcs,330.0,1,2017-05-06,2615,2
+Paneer mutter Rs.90+ 5 chapati Rs.25,115.0,1,2017-07-05,2555,0
+Park Inn Goa,100.0,1,2018-07-06,2189,0
+Pastry 2,50.0,1,2017-01-03,2738,2
+Pattice,20.0,1,2018-04-12,2274,0
+Pav kg Lahsoon,24.0,1,2018-04-02,2284,0
+Pav kg Simla mirch 20 + Hari mirch 5,25.0,1,2017-06-04,2586,2
+Pav kg chana dal,24.0,1,2018-04-07,2279,0
+Permanent Residence to Bandhu prem,40.0,1,2016-11-10,2792,2
+Permanent Residence to hospital,30.0,1,2016-11-05,2797,2
+Permanent Residence to hospital to n fro,80.0,1,2016-10-09,2824,2
+Permanent Residence to nearby  hospital,40.0,1,2015-11-03,3165,2
+Pizza base packet - Patil dairy,30.0,1,2017-07-08,2552,0
+Place 0 to Bandra,20.0,1,2015-03-10,3403,2
+Place 0 to Current Residence,30.0,2,2017-11-05,2432,0
+Place 0 to Place 3 returns,40.0,1,2018-02-11,2334,0
+Place 0 to Place 4 return,40.0,2,2018-08-05,2159,0
+Place 0 to Place 6 return,10.0,1,2017-05-03,2618,2
+Place 0 to Place 6 return 2,20.0,1,2017-03-05,2677,2
+Place 0 to Place P,20.0,1,2018-07-05,2190,0
+Place 0 to Place P return,40.0,1,2017-11-12,2425,0
+Place 0 to WS returns,20.0,1,2017-01-03,2738,2
+Place 0 to sec 21,30.0,1,2017-03-05,2677,2
+Place 1 bridge to Current Residence 2 seats,110.0,2,2018-07-02,2193,0
+Place 1 to Place 2 - Novelty tour and travels,1396.5,1,2017-01-06,2735,2
+Place 2 bus stand to Permanent Residence,50.0,1,2017-01-08,2733,2
+Place 2 to Place 1 - Shree Sharma Travels,945.0,1,2018-02-03,2342,0
+Place 2 to Place 3 sevagram,658.6,1,2017-10-11,2457,0
+Place 2 to mum,750.0,1,2016-09-01,2862,2
+Place 3 to Place 2 sevagram,1100.0,1,2017-05-03,2618,2
+Place 4 station to Place P return,30.0,1,2017-11-12,2425,0
+Place 4 to Place 0,10.0,1,2018-07-07,2188,0
+Place 6 to Place 2,598.5,1,2016-09-06,2857,2
+Place 6 to Place 2 - 3Tier AC cancellation charges,213.6,1,2017-04-06,2645,2
+Place P station to Alfa market,34.0,1,2017-11-12,2425,0
+Poha 25+ tea 10,35.0,1,2017-05-08,2613,2
+Print out,3.0,1,2017-06-06,2584,2
+Print outs+ Xerox,50.0,1,2017-09-05,2493,0
+Puma Troy mu running shoes,2421.0,1,2017-05-02,2619,2
+Q-dee strip,40.0,1,2017-05-02,2619,2
+RD,2000.0,2,2016-11-10,2792,2
+Raspberry dolly,15.0,1,2018-01-01,2375,0
+Raw chicken half kg,220.0,1,2018-02-05,2340,0
+Refresh Tears Drop,280.0,2,2018-05-01,2255,0
+Sambar masala (32)+ 2 milkybar,52.0,1,2017-04-01,2650,2
+Sanjori mould,26.0,1,2017-06-07,2583,2
+Screwdriver 2,120.0,1,2017-11-12,2425,0
+Shaving,100.0,2,2018-07-04,2191,0
+Shev Puri,105.0,3,2018-09-05,2128,0
+Shev bhaji sev pav kg,60.0,1,2018-07-09,2186,0
+Shorts for Family,399.0,1,2017-05-01,2620,2
+Smart point,2135.0,3,2018-03-05,2312,0
+Sofa covers,3000.0,1,2018-06-10,2215,0
+Sofy antibacterial,190.0,1,2017-06-05,2585,2
+Sony WI-C100 earphones wireless,1399.0,1,2018-01-08,2368,0
+Supermart,10830.0,10,2018-08-02,2162,3
+Sweet bread cake 85 + veg puff 2,125.0,1,2017-05-10,2611,2
+Sweet bread cake 90 + veg puff 2,140.0,1,2017-09-06,2492,0
+TOI,170.0,1,2017-06-10,2580,2
+Tea + 2 kachori,34.0,1,2017-05-10,2611,2
+Terminal 1 to Terminal 2,83.0,1,2018-07-05,2190,0
+Thyroid Tablets,172.0,1,2018-03-06,2311,0
+To and Fro Cab Fare Contribution,675.0,1,2018-07-08,2187,0
+Toast packet,65.0,2,2018-07-09,2186,0
+Tours and Travel,43000.0,1,2017-08-08,2521,1
+Two Wheeler Bikedelux booking amount,1000.0,1,2018-01-03,2373,0
+USB cord,130.0,1,2017-11-12,2425,0
+V-wash,45.0,1,2017-09-09,2489,0
+Vadapav,90.0,5,2018-07-01,2194,0
+Veg puff,20.0,1,2017-05-06,2615,2
+Vicks VapoRub,22.0,1,2017-08-06,2523,0
+Window cleaner,149.0,1,2018-04-02,2284,0
+Wok express + Domino's,681.0,1,2018-01-03,2373,0
+Xerox,16.0,2,2018-03-06,2311,0
+adulsa ( tonic for cough ),90.0,1,2017-01-11,2730,2
+antibiotics,354.0,1,2017-01-01,2740,2
+apple half kg+ mixer repair+flowers,100.0,1,2016-10-10,2823,2
+badishop,70.0,1,2016-09-11,2852,2
+bananas,20.0,1,2015-03-01,3412,2
+belan,110.0,1,2017-01-02,2739,2
+bhel + shev puri,60.0,1,2017-03-11,2671,2
+biscuits + medicine,68.0,1,2016-06-05,2950,2
+biscuits+icecream,40.0,1,2017-01-04,2737,2
+bread,55.0,2,2016-09-12,2851,2
+butter + frozen vatana+ 9 pan,240.0,1,2016-11-03,2799,2
+canteen lunch,25.0,1,2015-03-02,3411,2
+carrets + brinjal + flower,90.0,1,2016-12-04,2768,2
+chalk for ants,15.0,1,2016-01-10,3097,2
+cheese cubes(2),30.0,1,2016-12-08,2764,2
+cheese cubes(2)+ neutralite butter,60.0,1,2016-03-11,3036,2
+chicken lollypop + biryani,379.0,1,2015-09-11,3218,2
+chicken manchow soup,88.0,1,2015-03-01,3412,2
+chicken roll,50.0,1,2017-02-03,2707,2
+chocobar,125.0,6,2018-03-05,2312,0
+chocobar (25)+ chocolate cup (20),45.0,1,2017-04-04,2647,2
+clothes ironing,325.0,4,2018-07-01,2194,0
+clothes ironing : Rs 6 per item,72.0,1,2017-11-09,2428,0
+coconut,150.0,1,2016-10-12,2821,2
+cold coffee,450.0,2,2016-09-08,2855,2
+cutting + shaving,80.0,1,2016-11-02,2800,2
+cutting chai,17.0,2,2018-08-05,2159,0
+dahi,20.0,1,2015-05-01,3351,2
+dentist check-up,300.0,1,2015-03-02,3411,2
+egg roll,65.0,2,2017-04-01,2650,2
+eye drop,153.0,1,2018-07-08,2187,0
+eye drop maxmoist,257.0,1,2016-12-11,2761,2
+eyewear Glasses advance,1000.0,1,2018-08-02,2162,0
+eyewear Glasses payment remaining,4300.0,1,2018-08-05,2159,0
+farm house pizza,330.0,1,2017-01-03,2738,2
+firecracker,500.0,2,2016-11-04,2798,2
+flour mill,14.0,1,2017-10-10,2458,0
+footwear repair,10.0,1,2017-03-05,2677,2
+fruits and vegetables,650.0,2,2017-01-03,2738,2
+gilke,25.0,1,2016-12-04,2768,2
+gobi,20.0,1,2015-05-09,3343,2
+grandparents to Permanent Residence,30.0,1,2016-01-05,3102,2
+hair cut,200.0,2,2018-08-06,2158,0
+hair cut+shaving,240.0,2,2017-12-03,2404,0
+half kg chiku,30.0,1,2017-02-06,2704,2
+half liter buffalo,133.0,4,2017-02-04,2706,2
+hand sanitizer + surgical gloves,290.0,1,2015-05-09,3343,2
+ice cream,45.0,1,2016-11-07,2795,2
+inverter battery check,100.0,1,2017-01-05,2736,2
+ipad cover,260.0,1,2016-08-04,2890,2
+jira + toast pav kilo,110.0,1,2017-02-06,2704,2
+kadhipatta + 2 lemon,10.0,1,2016-12-04,2768,2
+kandyachi paat,8.0,1,2016-12-04,2768,2
+krack Jack biscuits,5.0,1,2017-08-06,2523,0
+measuring tape,50.0,1,2017-03-01,2681,2
+medicine,700.0,1,2016-11-03,2799,2
+meftal spas,8.0,1,2017-02-03,2707,2
+meghdoot to plaza,20.0,1,2016-09-11,2852,2
+methi + palak,100.0,1,2015-05-05,3347,2
+milk 0.5 lit ,93.0,3,2017-01-06,2735,2
+milk 1 lit + butter milk + srikhand pav kg,148.0,1,2017-03-03,2679,2
+milk 1lit ,2016.0,30,2018-07-01,2194,3
+milk half shakti,184.0,6,2015-05-12,3340,2
+mosambi 1kg,50.0,1,2016-11-01,2801,2
+mosambi 1kg+ gavar pav kilo+lemon 3 + kothimbir,90.0,1,2016-10-09,2824,2
+mosambi juice,25.0,1,2015-03-04,3409,2
+moscuito racket,200.0,1,2017-01-06,2735,2
+mouth fresh,55.0,1,2016-11-12,2790,2
+naturals,150.0,1,2017-03-08,2674,2
+onion 1 kg,50.0,2,2018-02-08,2337,0
+onion 2 kg,36.0,1,2018-04-02,2284,0
+onions,20.0,1,2015-05-11,3341,2
+orange juice,25.0,1,2015-03-06,3407,2
+painkillers,308.0,2,2015-03-03,3410,2
+parath + chicken biryani,412.25,1,2017-02-03,2707,2
+parle top biscuits,10.0,1,2017-02-03,2707,2
+pav Bhaji,235.0,1,2018-02-11,2334,0
+pav bhaji pav 3 packets (8pcs each),45.0,1,2016-12-04,2768,2
+pav bhaji pav(90) + 4 pav extra(40),130.0,1,2017-03-12,2670,2
+pizza meal,340.0,1,2017-01-01,2740,2
+plastic kharata + brush,140.0,1,2017-03-05,2677,2
+rasna orange,20.0,1,2016-04-02,3014,2
+razor,174.0,1,2016-10-08,2825,2
+reliance mutual fund,10000.0,10,2015-12-07,3131,3
+roadstar black fishermen sandals,773.0,1,2015-12-01,3137,2
+root canal advance,3000.0,1,2015-03-03,3410,2
+root canal due,1900.0,1,2015-03-12,3401,2
+samosa + sabudana vada,53.0,1,2017-02-04,2706,2
+scratch guard ipad,249.0,1,2016-10-09,2824,2
+sensodyne rapid fire,160.0,1,2015-05-10,3342,2
+shreejal 1,12.0,1,2017-02-03,2707,2
+single pav vada,10.0,1,2017-02-11,2699,2
+slippers,200.0,1,2016-01-12,3095,2
+station to Permanent Residence,100.0,1,2015-12-11,3127,2
+subscription 1 yr,300.0,1,2016-04-03,3013,2
+sugarcane juice,80.0,4,2017-07-09,2551,0
+sugarcane juice 2,30.0,1,2017-03-05,2677,2
+to office,20.0,2,2015-03-06,3407,2
+tomato,30.0,1,2016-12-04,2768,2
+tonic,155.0,1,2016-12-05,2767,2
+toothbrush + biscuits,50.0,1,2015-04-01,3381,2
+train - brc to ddr cancellation charges,11.8,1,2015-03-10,3403,2
+train - ddr to brc cancellation charges,11.8,1,2015-03-10,3403,2
+undergarments pair of Jockey,430.0,1,2018-07-01,2194,0
+val + methi + lady finger,50.0,1,2016-12-04,2768,2
+vanilla ice cream cups 2,60.0,3,2017-03-07,2675,2
+vargini,200.0,1,2016-10-01,2832,2
+veg fried rice 1 full,180.0,1,2017-07-05,2555,0
+veg paneer tikka 3 roti,294.0,1,2017-01-06,2735,2
+vegetables,760.0,3,2017-10-09,2459,0
+within city,190.0,3,2017-08-11,2518,0
+woffel,175.0,1,2017-01-07,2734,2
+yevle amrutullya,20.0,1,2017-01-03,2738,2
